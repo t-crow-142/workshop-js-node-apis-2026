@@ -7,7 +7,7 @@ You will be exposed to basics behind the main communication protocol online webs
 
 ## Links:
 
-* Link to slides: [https://tinyurl.com/wdcc-js-2025](https://tinyurl.com/wdcc-js-2025)
+* Link to slides: [https://tinyurl.com/wdcc-api-26](https://tinyurl.com/wdcc-api-26)
 * Link to GitHub repo: [https://tinyurl.com/wdcc-js-2025-repo](https://tinyurl.com/wdcc-js-2025-repo)
 * You will need to install Node.js: [nodejs.org](http://nodejs.org/)
 * Suggested IDE: [code.visualstudio.com](http://code.visualstudio.com/)
