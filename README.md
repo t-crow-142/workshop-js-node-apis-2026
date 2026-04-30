@@ -2,13 +2,12 @@
 
 The activity for this workshop will be based on a live demo working through and building an server side API (Application Programming Interface). The slides will cover fundamental concepts of API development which will then be practised in the practical component of this workshop.
 
-
 You will be exposed to basics behind the main communication protocol online websites use 🌍! From binge watching shows, banking to that random google search, everything online uses an API of some sort 👩‍💻👨‍💻.
 
 ## Links:
 
 * Link to slides: [https://tinyurl.com/wdcc-api-26](https://tinyurl.com/wdcc-api-26)
-* Link to GitHub repo: [https://github.com/t-crow-142/workshop-js-node-apis-2026/](https://github.com/t-crow-142/workshop-js-node-apis-2026/)
+* Link to GitHub repo: [https://github.com/UoaWDCC/workshop-js-node-apis-2026](https://github.com/UoaWDCC/workshop-js-node-apis-2026)
 * You will need to install Node.js: [nodejs.org](http://nodejs.org/)
 * Suggested IDE: [code.visualstudio.com](http://code.visualstudio.com/)
 * Postman: [postman.com](http://postman.com/) or can use VSCode Postman plugin
