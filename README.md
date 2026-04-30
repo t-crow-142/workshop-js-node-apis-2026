@@ -13,9 +13,10 @@ You will be exposed to basics behind the main communication protocol online webs
 * Suggested IDE: [code.visualstudio.com](http://code.visualstudio.com/)
 * Postman: [postman.com](http://postman.com/) or can use VSCode Postman plugin
 
-## Recording from the Workshop:
+## Zoom room & Recording from the Workshop:
 
-[Click here for the recording!](https://auckland.zoom.us/rec/share/cjPy7sC-rlp6f97QCkbaWfMCoSn1Lhf5YYj443Qm-mnTdcEhGE_DIWUie7CkM20.m18StH11LqHHr4F_)
+* [https://auckland.zoom.us/j/93512026499?pwd=AR3GStepO6vLGLA3gA8Mm4f2WNf1rc.1 ](https://auckland.zoom.us/j/93512026499?pwd=AR3GStepO6vLGLA3gA8Mm4f2WNf1rc.1)
+* Recording link: Will be added after workshop
 
 ## Task
 
